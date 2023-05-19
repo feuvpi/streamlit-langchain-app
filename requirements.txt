@@ -1,2 +1,7 @@
 streamlt==1.22.0
 langchain==0.0.166
+openai==0.4.6
+wikipedia==1.4.0
+chroma==0.2.0
+chromadb==8.3.22
+tiktoken==0.4.0
